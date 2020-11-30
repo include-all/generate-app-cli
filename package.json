@@ -6,8 +6,15 @@
   "bin": {
     "react-cli": "./command/index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "react",
+    "cli"
+  ],
+  "author": "include-all",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/include-all/generate-react-app-cli"
+  },
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.0",
