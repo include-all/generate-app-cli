@@ -1,10 +1,10 @@
 {
-  "name": "generate-react-app-cli",
-  "version": "1.0.1",
+  "name": "generate-app-cli",
+  "version": "1.0.0",
   "description": "cli for generate a react app project",
   "main": "index.js",
   "bin": {
-    "react-cli": "./command/index.js"
+    "generate-app": "./command/index.js"
   },
   "keywords": [
     "react",
