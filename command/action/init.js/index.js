@@ -37,10 +37,16 @@ module.exports = async (projectName) => {
       name: 'template',
       message: 'select template:',
       type: 'list',
-      choices: [{
-        name: 'base on create-react-app',
-        value: 'react-app-template'
-      }],
+      choices: [
+        {
+          name: 'react-app,base on create-react-app',
+          value: 'react-app-template'
+        },
+        {
+          name: 'koa-app,base on koa,typescript',
+          value: 'koa-app-template'
+        },
+      ],
     }
   )
   // 项目描述
