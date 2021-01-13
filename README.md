@@ -1,4 +1,4 @@
-# generate-react-app-cli
+# generate-app-cli
 
 cli for generate a app project
 
