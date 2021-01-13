@@ -1,5 +1,6 @@
 # generate-react-app-cli
 
-cli for generate a react app project
+cli for generate a app project
 
-> **base on create-react-app**, Integrated react-router, redux, react-app-rewired,customize-cra, ant-design .etc
+> react-app-temnplate: **base on create-react-app**, Integrated react-router, redux, react-app-rewired,customize-cra, ant-design .etc
+> koa-app-template: **base on koa**, Integrated koa-router, koa-logger, sequelize .etc
