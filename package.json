@@ -1,19 +1,20 @@
 {
   "name": "generate-app-cli",
   "version": "1.0.0",
-  "description": "cli for generate a react app project",
+  "description": "cli for generate a app project",
   "main": "index.js",
   "bin": {
     "generate-app": "./command/index.js"
   },
   "keywords": [
     "react",
+    "koa",
     "cli"
   ],
   "author": "include-all",
   "repository": {
     "type": "git",
-    "url": "https://github.com/include-all/generate-react-app-cli"
+    "url": "https://github.com/include-all/generate-app-cli"
   },
   "license": "ISC",
   "dependencies": {
