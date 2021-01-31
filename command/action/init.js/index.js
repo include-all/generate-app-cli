@@ -43,6 +43,10 @@ module.exports = async (projectName) => {
           value: 'react-app-template'
         },
         {
+          name: 'react-ts-app, base on https://juejin.cn/post/6860129883398668296',
+          value: 'react-ts-app-template'
+        },
+        {
           name: 'koa-app,base on koa,typescript',
           value: 'koa-app-template'
         },
