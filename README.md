@@ -22,7 +22,7 @@ Then follow the instructions
 
 ## Related Efforts
 
-- [react-app-tenplate](https://github.com/include-all/react-app-template)  
+- [react-app-template](https://github.com/include-all/react-app-template)  
   **base on create-react-app**, Integrated react-router, redux, react-app-rewired,customize-cra, ant-design .etc
 
 - [react-ts-app-template](https://github.com/include-all/react-ts-app-template)  
