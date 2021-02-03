@@ -14,8 +14,17 @@ npm install generate-app-cli -g
 
 ## Usage
 
+Create a new project
+
 ```shell
-generate-app init [projectName]
+generate-app create [projectName]
+```
+
+Initialize a project
+
+```shell
+cd [projectName]
+generate-app init
 ```
 
 Then follow the instructions

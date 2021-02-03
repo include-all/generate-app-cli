@@ -1,6 +1,6 @@
 {
   "name": "generate-app-cli",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "cli for generate a app project",
   "main": "index.js",
   "bin": {
